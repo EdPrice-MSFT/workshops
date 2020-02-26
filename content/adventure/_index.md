@@ -59,7 +59,7 @@ To start, copy and paste this text in your Repl.it window:
 Hit **run** and watch your console say ”Hello, World!” on the screen to the right! **print** tells the computer to print the sentence within the parentheses () into the console, or the screen on the right.
 ![#Can't find image](Nuevo_Images/helloWorld.png)
 
-Note: The RUN buttom looks like this:
+Note: The RUN button looks like this:
 ![#Can't find image](Nuevo_Images/run.png)
 
 **HELP!** I got a lot of red text!
